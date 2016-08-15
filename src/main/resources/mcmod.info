@@ -1,0 +1,16 @@
+[
+{
+  "modid": "entropycraft",
+  "name": "Entropy Craft",
+  "description": "Causes things to fail in your minecraft world.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "main.unstable.tech",
+  "updateUrl": "http://update.main.unstable.tech",
+  "authorList": ["codycode","codebycody],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

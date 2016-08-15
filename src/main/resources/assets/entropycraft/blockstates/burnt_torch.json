@@ -1,0 +1,31 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "torch": "entropycraft:blocks/burnt_torch"
+    }
+  },
+
+  "variants": {
+    "facing": {
+      "up": {
+        "model": "entropycraft:torch"
+      },
+      "east": {
+        "model": "entropycraft:torch_wall"
+      },
+      "south": {
+        "model": "entropycraft:torch_wall",
+        "y": 90
+      },
+      "west": {
+        "model": "entropycraft:torch_wall",
+        "y": 180
+      },
+      "north": {
+        "model": "entropycraft:torch_wall",
+        "y": 270
+      }
+    }
+  }
+}

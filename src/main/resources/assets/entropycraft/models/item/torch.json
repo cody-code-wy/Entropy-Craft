@@ -1,0 +1,7 @@
+{
+  "parent": "item/torch",
+  "defaults":{
+    "model":"torch",
+    "texture":"blocks/torch"
+  }
+}
